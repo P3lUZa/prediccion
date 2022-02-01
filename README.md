@@ -152,3 +152,7 @@ debe contener el indicador correspondiente a cada dato de la serie.
 Tras añadir las columnas necesarias se pueden ejecutar los métodos `train` y `fit` en este 
 orden y el objeto de la clase estará listo para ejecutar `predict` con los indicadores
 añadidos.
+
+## Requerimientos
+Además de pandas, numpy y scikitlearn, es necesario contar con las librerías PYEMD y talib.
+
